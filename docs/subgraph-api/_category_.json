@@ -1,0 +1,8 @@
+{
+  "label": "Subgraph API",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Subgraph data information."
+  }
+}
